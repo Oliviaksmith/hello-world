@@ -1,2 +1,4 @@
 # hello-world
-General repository 
+General repository
+name <Oliviaksmith>
+country <nz>
